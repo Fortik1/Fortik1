@@ -7,4 +7,4 @@
 # CodeWars
 ![codewars](https://www.codewars.com/users/Fortik1/badges/large)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortik1)](https://github.com/Fortik1/github-readme-stats)
