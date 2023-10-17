@@ -7,4 +7,3 @@
 # CodeWars
 ![codewars](https://www.codewars.com/users/Fortik1/badges/large)
 ---
-# LeetCode
