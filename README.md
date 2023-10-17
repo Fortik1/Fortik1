@@ -5,5 +5,5 @@
 # CodeWars
 ![codewars](https://www.codewars.com/users/Fortik1/badges/large)
 ---
-My Hexlet [profile](https://ru.hexlet.io/u/orlovdaniil)
+- My Hexlet [profile](https://ru.hexlet.io/u/orlovdaniil)
 ---
