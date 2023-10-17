@@ -8,3 +8,5 @@
 ![codewars](https://www.codewars.com/users/Fortik1/badges/large)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortik1)](https://github.com/Fortik1/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortik1\&hide=contribs,issues)
+
